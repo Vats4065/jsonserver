@@ -1,0 +1,39 @@
+{
+  "product": [
+    {
+      "title": "uy",
+      "img": "https://www.apple.com/v/macbook-air/p/images/overview/compare/compare_mba_m1__dsgh2hoxlkae_large.png",
+      "price": "23420",
+      "category": "laptop",
+      "id": 2
+    },
+    {
+      "title": "ds",
+      "img": "https://www.apple.com/v/macbook-air/p/images/overview/compare/compare_mba_m1__dsgh2hoxlkae_large.png",
+      "price": "23420",
+      "category": "laptop",
+      "id": 3
+    },
+    {
+      "title": "ds",
+      "img": "https://www.apple.com/v/macbook-air/p/images/overview/compare/compare_mba_m1__dsgh2hoxlkae_large.png",
+      "price": "2320",
+      "category": "laptop",
+      "id": 5
+    },
+    {
+      "title": "ds",
+      "img": "https://www.apple.com/v/macbook-air/p/images/overview/compare/compare_mba_m1__dsgh2hoxlkae_large.png",
+      "price": "10000",
+      "category": "laptop",
+      "id": 6
+    },
+    {
+      "title": "ds",
+      "img": "https://www.apple.com/v/macbook-air/p/images/overview/compare/compare_mba_m1__dsgh2hoxlkae_large.png",
+      "price": "1000",
+      "category": "laptop",
+      "id": 7
+    }
+  ]
+}
