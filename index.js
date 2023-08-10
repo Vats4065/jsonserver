@@ -19,7 +19,7 @@ const productdata = (e) => {
     });
 
   }
-  else if(value == "post") {
+  else {
     fetch("http://localhost:3000/product/"+id, {
       method: "PATCH",
       headers: { "content-type": "application/json" },
@@ -51,7 +51,7 @@ const display = (data) => {
         document.getElementById("img").value = ele.img;
         document.getElementById("price").value = ele.price;
         document.getElementById("category").value = ele.category;
-        document.getElementById("btnsubmit").value = "Update";
+        document.getElementById("btn1").value = "Update";
         id=ele.id;
       });
   
